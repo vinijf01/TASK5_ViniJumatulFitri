@@ -14,6 +14,53 @@ body {
   color: #444444;
 }
 
+.domain-search {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .domain-search label {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .domain-search .input-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .domain-search input[type="text"],
+  .domain-search select {
+    flex-grow: 1;
+    padding: 20px;
+    font-size: 16px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .domain-search button[type="submit"] {
+    /* padding: 10px; */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .domain-search button[type="submit"]:hover {
+    background-color: #0b0b0b;
+  }
+
+
 a {
   color: #e49d47;
   text-decoration: none;
@@ -1196,8 +1243,12 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+
 .pricing .row {
-  padding-top: 40px;
+  /* padding-top: 40px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .pricing .box {
@@ -1221,15 +1272,15 @@ section {
   color: #FF6D0B;
   font-weight: 400;
   font-family: "Jost", sans-serif;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
 .pricing h4 sup {
   font-size: 28px;
 }
 
-.pricing h4 span {
-  color: #e4a847;
+.pricing h4 span s {
+  color: #7a7774;
   font-size: 18px;
   display: block;
 }

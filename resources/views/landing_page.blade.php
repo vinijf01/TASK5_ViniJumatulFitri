@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Arsha Bootstrap Template - Index</title>
+    <title>Qwords.com: Cloud Web Hosting</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -206,23 +206,20 @@
 
                 <div class="section-title">
                     <h2>Cari Nama Domainmu</h2>
+                    <p class="justify-content-center">Nama Domain digunakan untuk mempermudah pengunjung menuju
+                    <br>ke situs Anda. Pilih nama domain yang paling mencerminkan bisnis,
+                    <br>produk, atau layanan Anda.</p>
+                </div>
+                <div class="input-group domain-search">
+                    <input type="text" id="domain-name" name="domain-name" placeholder="Masukkan Nama Domain">
+                    <select name="domain-extension">
+                      <option value=".com">.com</option>
+                      <option value=".co.id">.co.id</option>
+                      <option value=".id">.id</option>
+                    </select>
+                    <button type="submit">Cari</button>
                 </div>
 
-                <div class="row content">
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                        <div class="row">
-                            <div class="form-group col-md-6">
-                                <input type="text" name="name" class="form-control" id="name"
-                                    required>
-                            </div>
-                            <div class="form-group col-md-6">
-                                <input type="text" name="name" class="form-control" id="name"
-                                    required>
-
-                            </div>
-                        </div>
-                    </form>
-                </div>
 
             </div>
         </section><!-- End About Us Section -->
@@ -232,59 +229,63 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2 style="color:black">Cloud Hosting Indonesia<b style="color: orangered">Diskon Hingga 50%</b></h2>
-
+                    <h2 style="color:black">Cloud Hosting Indonesia<br><b style="color: orangered">Diskon Hingga 50%</b></h2>
                 </div>
 
                 <div class="row">
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="box">
-                            <h3>Free Plan</h3>
-                            <h4><sup>$</sup>0<span>per month</span></h4>
+                            <p>Value Cloud Hosting</p>
+                            <h3>VCH1</h3>
+                            <h4><span><s>Rp 24.500</s></span></h4>
+                            <h4><sup>Rp</sup>14.500</h4>
                             <ul>
-                                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                                <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span>
+                                <li><i class="bx bx-check"></i> Disk <b>3 GB</b></li>
+                                <li><i class="bx bx-check"></i> Bandwitd <b>Unlimited</b></li>
+                                <li><i class="bx bx-check"></i> Core CPU <b>0.5 Core</b></li>
+                                <li class="na"><i class="bx bx-x"></i> <span>Addon / parked domain</span>
                                 </li>
-                                <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis
-                                        hendrerit</span></li>
                             </ul>
                             <a href="#" class="buy-btn">Get Started</a>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                        <div class="box featured">
-                            <h3>Business Plan</h3>
-                            <h4><sup>$</sup>29<span>per month</span></h4>
-                            <ul>
-                                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-                            </ul>
-                            <a href="#" class="buy-btn">Get Started</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="box">
-                            <h3>Developer Plan</h3>
-                            <h4><sup>$</sup>49<span>per month</span></h4>
+                            <p>Value Cloud Hosting</p>
+                            <h3>VCH1</h3>
+                            <h4><span><s>Rp 24.500</s></span></h4>
+                            <h4><sup>Rp</sup>14.500</h4>
                             <ul>
-                                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="bx bx-check"></i> Disk <b>3 GB</b></li>
+                                <li><i class="bx bx-check"></i> Bandwitd <b>Unlimited</b></li>
+                                <li><i class="bx bx-check"></i> Core CPU <b>0.5 Core</b></li>
+                                <li class="na"><i class="bx bx-x"></i> <span>Addon / parked domain</span>
+                                </li>
                             </ul>
                             <a href="#" class="buy-btn">Get Started</a>
                         </div>
                     </div>
 
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="box">
+                            <p>Value Cloud Hosting</p>
+                            <h3>VCH1</h3>
+                            <h4><span><s>Rp 24.500</s></span></h4>
+                            <h4><sup>Rp</sup>14.500</h4>
+                            <ul>
+                                <li><i class="bx bx-check"></i> Disk <b>3 GB</b></li>
+                                <li><i class="bx bx-check"></i> Bandwitd <b>Unlimited</b></li>
+                                <li><i class="bx bx-check"></i> Core CPU <b>0.5 Core</b></li>
+                                <li class="na"><i class="bx bx-x"></i> <span>Addon / parked domain</span>
+                                </li>
+                            </ul>
+                            <a href="#" class="buy-btn">Get Started</a>
+                        </div>
+                    </div>
+
+                    </div>
                 </div>
 
             </div>
@@ -521,7 +522,7 @@
     <!-- ======= Footer ======= -->
     <footer id="footer">
 
-        <div class="footer-newsletter">
+        {{-- <div class="footer-newsletter">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
@@ -533,14 +534,14 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
         <div class="footer-top">
             <div class="container">
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Arsha</h3>
+                        <h3>QWORDS</h3>
                         <p>
                             A108 Adam Street <br>
                             New York, NY 535022<br>
@@ -590,7 +591,7 @@
 
         <div class="container footer-bottom clearfix">
             <div class="copyright">
-                &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>QWORDS</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
